@@ -1,0 +1,11 @@
+C:\Users\Варвара\Desktop\Selfeducation\C#\Names\bin\Debug\names.txt
+C:\Users\Варвара\Desktop\Selfeducation\C#\Names\bin\Debug\Names.exe.config
+C:\Users\Варвара\Desktop\Selfeducation\C#\Names\bin\Debug\Names.exe
+C:\Users\Варвара\Desktop\Selfeducation\C#\Names\bin\Debug\Names.pdb
+C:\Users\Варвара\Desktop\Selfeducation\C#\Names\bin\Debug\ZedGraph.dll
+C:\Users\Варвара\Desktop\Selfeducation\C#\Names\bin\Debug\ZedGraph.xml
+C:\Users\Варвара\Desktop\Selfeducation\C#\Names\obj\Debug\Names.csproj.AssemblyReference.cache
+C:\Users\Варвара\Desktop\Selfeducation\C#\Names\obj\Debug\Names.csproj.CoreCompileInputs.cache
+C:\Users\Варвара\Desktop\Selfeducation\C#\Names\obj\Debug\Names.csproj.CopyComplete
+C:\Users\Варвара\Desktop\Selfeducation\C#\Names\obj\Debug\Names.exe
+C:\Users\Варвара\Desktop\Selfeducation\C#\Names\obj\Debug\Names.pdb
